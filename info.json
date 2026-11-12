@@ -1,0 +1,14 @@
+{
+  "name": "fusion-thruster-legacy-reactor",
+  "version": "1.0.0",
+  "title": "Fusion Thruster: Legacy Reactor",
+  "author": "drhaber, FactorioMods",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.24",
+    "space-age >= 2.1.24",
+    "fusion-thruster >= 1.1.0"
+  ],
+  "description": "Restore the original water-fed Fusion Thruster reactor, recipe and existing factory identity alongside current Fusion Thruster.",
+  "space_travel_required": true
+}

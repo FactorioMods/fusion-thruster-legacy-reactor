@@ -1,0 +1,8 @@
+# Fusion Thruster: Legacy Reactor
+
+Retains the dedicated water-fed reactor from Fusion Thruster 0.2.1 alongside the maintained original. Original prototype names, footprint, four water inputs, four plasma outputs, fuel, electrical demand and crafting cost remain. Plasma ports retain the original connection category and also accept the modern fusion connection categories.
+
+Derived from Fusion Thruster by drhaber (ncc1702), MIT licensed. Original reactor artwork and license are retained. Current Fusion Thruster is required; this addon does not replace its thrusters.
+
+Headless Factorio 2.1.24 native checks crafted the original recipe and produced fusion plasma from water and fusion fuel with electric power. Stock reactors and current Fusion Thruster loaded alongside it. For current thrusters, rotate the reactor so a plasma output faces a side input of the maintained thruster chamber. Feed water and fusion power cells into the reactor, supply electrical power, feed water to the thruster and remove hot fluoroketone from its chamber. Native checks confirmed a real reactor-to-chamber pipe connection, chamber conversion and plasma fuel reaching the current thruster. Existing reactors keep their original ports; the maintained parent changed its thruster layout after 0.2.1.
+Original mod: [Fusion Thruster](https://mods.factorio.com/mod/fusion-thruster), source by drhaber/ncc1702: [GitHub](https://github.com/drhaber/fusion-thruster). [Addon source on GitHub](https://github.com/FactorioMods/fusion-thruster-legacy-reactor). Original MIT license and reactor artwork credits are retained.

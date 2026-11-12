@@ -1,0 +1,1 @@
+script.on_configuration_changed(function() for _,force in pairs(game.forces) do if force.technologies["fusion-thruster"].researched then force.recipes["thruster-fusion-reactor"].enabled=true end end end)
